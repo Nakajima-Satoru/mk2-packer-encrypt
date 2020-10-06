@@ -1,5 +1,5 @@
 {
-	"name":"mk2/packer-encrypt",
+	"name":"mk2/packer_encrypt",
 	"description": "Data encryption / encryption class dedicated to PHP framework 'Mark2'.",
 	"type": "library",
 	"license": "MIT",
@@ -13,7 +13,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"mk2\\packer-encrypt\\":"src/"
+			"mk2\\packer_encrypt\\":"src/"
 		}
 	}
 }

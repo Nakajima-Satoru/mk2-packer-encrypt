@@ -13,7 +13,7 @@
  *
  */
 
-namespace mk2\packer;
+namespace mk2\packer_encrypt;
 
 use mk2\core\Import;
 Import::Packer("Encrypt");

@@ -11,7 +11,7 @@
  *
  */
 
-namespace mk2\packer;
+namespace mk2\packer_encrypt;
 
 use mk2\core\Packer;
 
